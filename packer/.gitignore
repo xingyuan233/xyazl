@@ -1,0 +1,17 @@
+# Gradle 缓存与构建产物
+/build
+/.gradle
+/.kotlin
+
+# IntelliJ / Android Studio
+/.idea
+*.iml
+/captures
+/.externalNativeBuild
+/.cxx
+
+# 本地配置
+/local.properties
+
+# 签名
+*.keystore

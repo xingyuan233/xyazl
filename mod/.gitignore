@@ -1,0 +1,9 @@
+# 缓存与构建产物
+/build
+
+# IntelliJ / Android Studio
+/.idea
+
+# 其他
+/源
+*.lnk
